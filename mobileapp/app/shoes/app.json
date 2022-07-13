@@ -1,0 +1,32 @@
+{
+    "expo": {
+        "name": "shoes",
+        "slug": "shoes",
+        "version": "1.2.0",
+        "orientation": "portrait",
+        "icon": "./assets/servis.jpg",
+        "splash": {
+            "image": "./assets/splash.png",
+            "resizeMode": "contain",
+            "backgroundColor": "#ffffff"
+        },
+        "updates": {
+            "fallbackToCacheTimeout": 0
+        },
+        "assetBundlePatterns": [
+            "**/*"
+        ],
+        "ios": {
+            "supportsTablet": true
+        },
+        "android": {
+            "adaptiveIcon": {
+                "foregroundImage": "./assets/servis.jpg",
+                "backgroundColor": "#FFFFFF"
+            }
+        },
+        "web": {
+            "favicon": "./assets/favicon.png"
+        }
+    }
+}

@@ -1,0 +1,59 @@
+export const GET_ERRORS = "GET_ERRORS";
+
+export const CREATE_MESSAGE = "CREATE_MESSAGE";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const LOGIN_SUCCES = "LOGIN_SUCCES";
+export const REGISTER_SUCCES = "REGISTER_SUCCES";
+export const REGISTER_FAIL = "REGISTER_FAIL";
+export const USER_LOADED = "USER_LOADED";
+export const AUTH_ERROR = "AUTH_ERROR";
+export const LOGOUT_SUCCES = "LOGOUT_SUCCES";
+
+export const GET_USERS_LIST = "GET_USERS_LIST";
+
+//group
+export const CREATE_GROUP = "CREATE_GROUP";
+export const CLEAR_GROUP = "CLEAR_GROUP";
+export const LOAD_GROUP = "LOAD_GROUP";
+export const GROUP_FAIL = "GROUP_FAIL";
+
+// magicCode
+// export const MAGICK_CODE = "MAGICK_CODE";
+
+//members
+export const GET_MEMBERS = "GET_MEMBERS";
+export const MEMBER_USER = "MEMBER_USER";
+export const GET_INVITE_LIST = "GET_INVITE_LIST";
+
+//chatMEMBER_USER
+export const CHAT_LIST = "CHAT_LIST";
+export const CHAT_MESSAGES = "CHAT_MESSAGES";
+export const SEND_MESSAGE = "SEND_MESSAGE";
+export const NEW_MESSAGE = "NEW_MESSAGE";
+
+export const LOAD_CALENDAR = "LOAD_CALENDAR";
+export const GET_EVENT = "GET_EVENT";
+export const UPDATE_EVENT = "UPDATE_EVENT";
+export const UPDATE_EVENT_FORMAT_DAY = "UPDATE_EVENT_FORMAT_DAY";
+export const DELEATE_EVENT = "DELEATE_EVENT";
+export const GET_CLIENT_EVENTS = "GET_CLIENT_EVENTS";
+export const CLEAR_CLIENT_EVENTS = "CLEAR_CLIENT_EVENTS";
+export const LOAD_CALENDAR_DAILY = "LOAD_CALENDAR_DAILY";
+export const CLEAR_CALENDAR = "CLEAR_CALENDAR";
+export const NEW_EVENT_ON_MON = "NEW_EVENT_ON_MON";
+export const NEW_EVENT_ON_TUE = "NEW_EVENT_ON_TUE";
+export const NEW_EVENT_ON_WED = "NEW_EVENT_ON_WED";
+export const NEW_EVENT_ON_THU = "NEW_EVENT_ON_THU";
+export const NEW_EVENT_ON_FRI = "NEW_EVENT_ON_FRI";
+
+export const CLEAR_CLIENTS = "CLEAR_CLIENTS";
+export const LOAD_CLIENTS = "LOAD_CLIENTS";
+export const GET_CLIENTS_DETAIL = "GET_CLIENTS_DETAIL";
+export const GET_CLIENTS_DETAIL_EVENT = "GET_CLIENTS_DETAIL_EVENT";
+export const CLEAR_CLIENTS_DETAIL_EVENT = "CLEAR_CLIENTS_DETAIL_EVENT";
+export const CLIENT_ADD = "CLIENT_ADD";
+export const UPDATE_CLIENT = "UPDATE_CLIENT";
+export const CLIENT_DELETE = "CLIENT_DELETE";
+
+export const ADD_STOVE = "ADD_STOVE";
+export const GET_STOVE = "GET_STOVE";
