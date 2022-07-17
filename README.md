@@ -6,4 +6,4 @@ aplication for servises companies. Fast tip to run on own device:
 * create apk build using expo (comand: `expo build:android` or ios in app directory )
 * install apk on your phone
 > and this is all :D
-by Maksymilian Wójcik
+[Preview](https://www.youtube.com/watch?v=FP_sjjn6Eps)
